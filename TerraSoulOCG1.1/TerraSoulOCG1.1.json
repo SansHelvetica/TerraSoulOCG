@@ -98,7 +98,31 @@
   "deckFileType": "txt",
   "deckSharePreference": "share",
   "deckUrls": [],
-  "enums": [],
+  "enums": [
+    {
+      "property": "class",
+      "values": {
+        "Neutral": "Neutral",
+        "Arcane": "Arcane",
+        "Dimensional": "Dimensional",
+        "Dragon": "Dragon",
+        "Faerie": "Faerie",
+        "Necromancer": "Necromancer",
+        "Nightmare": "Nightmare",
+        "Sacred": "Sacred",
+        "Warrior": "Warrior"
+      }
+    },
+    {
+      "property": "type",
+      "values": {
+        "Champion": "Champion",
+        "Relic": "Relic",
+        "Sorcery": "Sorcery",
+	"Territory": "Territory",
+	"Token": "Token"
+      }
+    }],
   "extras": [],
   "gameBoardImageFileType": "png",
   "gameBoardCards": [],
