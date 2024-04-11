@@ -3,7 +3,17 @@
     "id": "Crystal Witch",
     "name": "Crystal Witch",
     "setCode": "0",
-    "properties": {}
+    "properties": 
+    {
+        "atk": 1,
+        "class": "Arcane",
+        "def": 1,
+        "description": "Battle Cry: ?",
+        "name": "Crystal Witch",
+        "rank": 0,
+        "subtype": "Geomancer",
+        "type": "Champion"
+    }
   },
   {
     "id": "Elemental Neophyte",
