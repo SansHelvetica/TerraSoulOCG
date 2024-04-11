@@ -35,14 +35,49 @@
   "cardPrimaryProperty": "description",
   "cardProperties": [
     {
-      "name": "description",
-      "type": "string",
-      "display": "Description",
-      "displayEmpty": "",
-      "displayEmptyFirst": false,
-      "delimiter": "",
-      "properties": []
-    }
+      "name": "rank",
+      "display": "Rank",
+      "type": "integer"
+    },
+    {
+      "name": "class",
+      "display": "Class",
+      "type": "stringEnum"
+    },
+    {
+      "name": "type",
+      "display": "Type",
+      "type": "stringEnum"
+    },
+    {
+      "name": "subtype",
+      "display": "Subtype",
+      "type": "stringEnum"
+    },
+        {
+          "name": "description",
+          "display": "Description",
+          "displayEmpty": "N / A",
+          "type": "string"
+        },
+        {
+          "name": "flair",
+          "display": "Base Flair",
+          "displayEmpty": "N / A",
+          "type": "string"
+        },
+        {
+          "name": "attack",
+          "display": "Base Attack",
+          "displayEmpty": "N / A",
+          "type": "integer"
+        },
+        {
+          "name": "defense",
+          "display": "Base Defense",
+          "displayEmpty": "N / A",
+          "type": "integer"
+        }
   ],
   "cardPropertyIdentifier": "id",
   "cardRotationDefault": 0,
