@@ -111,7 +111,7 @@
   "gameStartHandCount": 0,
   "gameStartPointsCount": 0,
   "playMatImageFileType": "png",
-  "playMatImageUrl": "C:/Users/sansa/AppData/Local/Temp/Finol Digital LLC/Card Game Simulator\\Playmat3.3.png",
+  "playMatImageUrl": "https://raw.githubusercontent.com/SansHelvetica/TerraSoulOCG/main/PlayMat.png",
   "playMatSize": {
     "x": 36,
     "y": 36
