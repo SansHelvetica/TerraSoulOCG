@@ -3,8 +3,6 @@
     "id": "Crystal Witch",
     "name": "Crystal Witch",
     "setCode": "0",
-    "properties": 
-    {
         "atk": 1,
         "class": "Arcane",
         "def": 1,
@@ -13,7 +11,6 @@
         "rank": 0,
         "subtype": "Geomancer",
         "type": "Champion"
-    }
   },
   {
     "id": "Elemental Neophyte",
