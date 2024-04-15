@@ -6,7 +6,7 @@
         "atk": 1,
         "class": "Arcane",
         "def": 1,
-        "description": "Battle Cry: ?",
+        "description": "Battle Cry: Check the top 4 cards of your deck, shuffle any number of them into your deck and place the remaining cards on the top of your deck in any order.",
         "name": "Crystal Witch",
         "rank": 0,
         "subtype": "Geomancer",
