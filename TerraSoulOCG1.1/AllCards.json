@@ -1,17 +1,16 @@
 [
-  {
-    "id": "Crystal Witch",
-    "name": "Crystal Witch",
-    "setCode": "0",
+ {
         "atk": 1,
         "class": "Arcane",
         "def": 1,
         "description": "Battle Cry: Check the top 4 cards of your deck, shuffle any number of them into your deck and place the remaining cards on the top of your deck in any order.",
+        "id": "Crystal Witch",
         "name": "Crystal Witch",
         "rank": 0,
+        "set": "0",
         "subtype": "Geomancer",
         "type": "Champion"
-  },
+    },
   {
     "id": "Elemental Neophyte",
     "name": "Elemental Neophyte",
