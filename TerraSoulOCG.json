@@ -117,6 +117,7 @@
       "property": "type",
       "values": {
         "Champion": "Champion",
+	"Legend": "Legend",
         "Relic": "Relic",
         "Sorcery": "Sorcery",
 	"Territory": "Territory",
