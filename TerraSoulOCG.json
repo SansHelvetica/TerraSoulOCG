@@ -50,8 +50,8 @@
       "type": "stringEnum"
     },
     {
-      "name": "subtype",
-      "display": "Subtype",
+      "name": "trait",
+      "display": "Trait",
       "type": "stringEnum"
     },
         {
