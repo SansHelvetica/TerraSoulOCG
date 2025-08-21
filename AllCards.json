@@ -9786,21 +9786,18 @@
   {
     "id": "Dark Emperor, Vedoran",
     "name": "Dark Emperor, Vedoran",
-    "setCode": "4",
+    "setCode": "0",
     "properties": {
-      "ATK": 5,
-        "Card Name": "Dark Emperor, Vedoran",
-        "Class": "Nightmare",
-        "DEF": 7,
-        "ID": null,
-        "Rank": 6,
-        "Set #": null,
-        "Text": "Hexproof\r\nBattle Cry: Destroy up to 2 enemy champions. Then, if Vengeance or Madness is active for you, gain +2/+2 and gain 5 Life.\r\nClash: Deal 3 damage to the enemy champion.\r\nWill: Deal 5 damage to both players.\r\n\r\nIf Vengeance and Madness is active for you, reduce the Cost of this card by 2.",
-        "Trait": "Shadar-Kai",
-        "Type": "Champion"
-    }    
-    
-    },
+      "description": {
+        "def": {
+          "name": "description",
+          "type": "string",
+          "display": "Hexproof\r\nBattle Cry: Destroy up to 2 enemy champions. Then, if Vengeance or Madness is active for you, gain +2/+2 and gain 5 Life.\r\nClash: Deal 3 damage to the enemy champion.\r\nWill: Deal 5 damage to both players.\r\n\r\nIf Vengeance and Madness is active for you, reduce the Cost of this card by 2.",
+          "displayEmpty": "",
+          "displayEmptyFirst": false,
+          "delimiter": "",
+          "properties": []
+        },
   {
     "id": "Dark Empress, Sylvanas",
     "name": "Dark Empress, Sylvanas",
